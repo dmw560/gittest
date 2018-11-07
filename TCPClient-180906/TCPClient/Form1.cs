@@ -39,7 +39,7 @@ namespace TCPClient
         public RecieveDelegate RecieveThread;
         //发送计数
         public int token = 1;
-        //是否注册
+        //是否注册123
         public bool IsReg = false;
         //设置定时
         System.Timers.Timer timer;

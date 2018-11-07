@@ -78,3 +78,6 @@ E:\WorkDocuments\智慧能源管理平台\最新版本\TCPClient-180906\TCPClien
 E:\WorkDocuments\智慧能源管理平台\最新版本\TCPClient-180906\TCPClient\obj\Release\TCPClient.exe.manifest
 E:\WorkDocuments\智慧能源管理平台\最新版本\TCPClient-180906\TCPClient\obj\Release\TCPClient.application
 E:\WorkDocuments\智慧能源管理平台\最新版本\TCPClient-180906\TCPClient\obj\Release\TCPClient.csprojResolveAssemblyReference.cache
+E:\Study\GrowUp\Git\TCPClient-180906\TCPClient\bin\Release\TCPClient.exe.config
+E:\Study\GrowUp\Git\TCPClient-180906\TCPClient\obj\Release\TCPClient.exe
+E:\Study\GrowUp\Git\TCPClient-180906\TCPClient\obj\Release\TCPClient.pdb
